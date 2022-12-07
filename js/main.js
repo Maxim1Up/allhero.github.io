@@ -12,7 +12,7 @@ navBtn.onclick = () =>{
 }
 
 
-const countDate = new Date(2022, 11, 5, 18, 0, 0, 0).getTime();
+const countDate = new Date(2022, 11, 12, 18, 0, 0, 0).getTime();
 function newYear(){
     const now = new Date().getTime();
     gap = countDate - now;
